@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: "Your Site Title"
+title: "Test Blog Site"
 email: &EMAIL "username@example.edu"
 description:
   Write an awesome description for your new site here. You can edit this
@@ -25,9 +25,9 @@ search: true
 
 
 author:
-  name   : "First Lastname"
+  name   : "Matthew Wright"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  bio    : "Associate Professor of Mathematics at St. Olaf College."
   links:
     - label: "✉ Email"
       icon: "fab"
